@@ -1,0 +1,26 @@
+[
+  {
+    "author": "Chinua Achebe",
+    "language": "English",
+    "country": "Nigeria",
+    "id": 1
+  },
+  {
+    "author": "Hans Christian Andersen",
+    "language": "Danish",
+    "country": "Denmark",
+    "id": 2
+  },
+  {
+    "author": "Dante Alighieri",
+    "language": "Italian",
+    "country": "Italy",
+    "id": 3
+  },
+  {
+    "author": "Unknown",
+    "language": "Akkadian",
+    "country": "Sumer and Akkadian Empire",
+    "id": 4
+  }
+]
